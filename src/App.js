@@ -4,7 +4,6 @@ import { useState, useEffect } from "react";
 import ABIFILE from "./artifacts/contracts/BlockchainVoting.sol/BlockchainVoting.json";
 import FatcVoter from "./comp/FatcVoter";
 import Propsal from "./comp/Propsal";
-import Sec from "./comp/FatchCandi";
 import Set from "./comp/FatchCandi";
 import Vote from "./comp/Vote";
 const ABI = ABIFILE.abi;
@@ -101,8 +100,7 @@ function App() {
       </div>
 
       <br></br>
-      <Sec contract={contract} account={account} provider={provider} />
-
+       
       <Set contract={contract} account={account} provider={provider} />
 
       <Vote contract={contract} account={account} provider={provider} />
