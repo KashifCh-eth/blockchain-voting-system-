@@ -1,6 +1,12 @@
 # blockchain-voting-system v.0.1
 
- Blockchain Voting System Project 🍳CheckOut #github
+
+```
+Updated Date 7/1/2014
+```
+
+
+Blockchain Voting System Project 🍳CheckOut #github
 
 Decentralized Election voting System project using Blockchain technology such as Metamask, hardhat, and Remix IDE.
 
@@ -18,14 +24,16 @@ Languages used
 Live Demo
 https://voting.netlify.app/
 
-Goerli TestNet
-https://goerli.etherscan.io/address/0x0fee2908afda3d25e876c05ed5a6b9e40c37d909#code
+sepolia TestNet
+https://sepolia.etherscan.io/address/0xe984f31e44273844f9b313d66ebed6eb8e73376d#code
+
 
 YouTube
 https://www.youtube.com/watch?v=oJgENg8aFBA
 
 
 #HOW TO RUN
+
 Install all packeges by command - npm install
 Run neo4j by command (in bin folder of neo4j installed folder) - neo4j console 
 Run the nodejs code - npm run devStart
