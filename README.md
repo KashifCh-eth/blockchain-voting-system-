@@ -22,7 +22,14 @@ Languages used
 3. solidity
 
 Live Demo
-https://voting.netlify.app/
+https://blockchain-voting-system-lemon.vercel.app/   (Updating ongoing )
+
+
+Upcoming Updates 
+
+1. Adding Wallet Connect v3
+2. Automate Voting Process 
+3. Improving UI 
 
 sepolia TestNet
 https://sepolia.etherscan.io/address/0xe984f31e44273844f9b313d66ebed6eb8e73376d#code
